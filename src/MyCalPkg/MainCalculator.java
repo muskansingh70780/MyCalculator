@@ -8,6 +8,8 @@ public class MainCalculator {
 		System.out.println("addition is"+sum);
 		int sub=calc.subtraction(10,20);
 		System.out.println("subtraction is"+sub);
+		int mul=calc.multiplication(10,20);
+		System.out.println(multiplication is"+sub);
 
 	}
 
