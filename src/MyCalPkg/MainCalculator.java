@@ -9,7 +9,11 @@ public class MainCalculator {
 		int sub=calc.subtraction(10,20);
 		System.out.println("subtraction is"+sub);
 		int mul=calc.multiplication(10,20);
-		System.out.println(multiplication is"+sub);
+		System.out.println("multiplication is"+mul);
+		int div=calc.division(10,20);
+		System.out.println("division is"+div);
+		
+				
 
 	}
 
